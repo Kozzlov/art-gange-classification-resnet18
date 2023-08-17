@@ -1,6 +1,10 @@
 # art-gange-classification-resnet18
-Training data was scraped from louvre archive page - https://collections.louvre.fr/en/
-Train data was split into classes based on article - http://www.visual-arts-cork.com/painting-genres.htm
+Overview: 
+The given model is a fine-tuned version of resnet18, intended to help in classification of paintings. The first model version can identify four major classes: Genre, Landscape, Portrait and Naturmort. 
+
+Data:
+The training data was scraped from louvre archive page - https://collections.louvre.fr/en/. 
+Class split is based on article - http://www.visual-arts-cork.com/painting-genres.htm.
 
 Repository description: 
 1. Model training/inference code - image_classification_transfer_learning.ipynb

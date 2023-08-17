@@ -1,5 +1,5 @@
 # art-gange-classification-resnet18
-Training data was scraped from louvre archive page - https://collections.louvre.fr/en/ 
+Training data was scraped from louvre archive page - https://collections.louvre.fr/en/
 Train data was split into classes based on article - http://www.visual-arts-cork.com/painting-genres.htm
 
 Repository description: 
